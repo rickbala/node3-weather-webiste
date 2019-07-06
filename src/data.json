@@ -1,0 +1,42 @@
+[
+  {
+    "location": "Vitoria",
+    "forecast": "32 degrees",
+    "hint": "Await until tomorrow"
+  },
+  {
+    "location": "Zurich",
+    "forecast": "33 degrees",
+    "hint": "I wanna hug you!"
+  },
+  {
+    "location": "Spain",
+    "forecast": "35 degrees",
+    "hint": "Hot"
+  },
+  {
+    "location": "Arabella",
+    "forecast": "31 degrees",
+    "hint": "Good things will come"
+  },
+  {
+    "location": "Ober",
+    "forecast": "18 degrees",
+    "hint": "Close the windows"
+  },
+  {
+    "location": "La Paz",
+    "forecast": "39 degrees",
+    "hint": "Veeery hot!"
+  },
+  {
+    "location": "Costa Rica",
+    "forecast": "30 degrees",
+    "hint": "Cool"
+  },
+  {
+    "location": "Brasil",
+    "forecast": "39 degrees",
+    "hint": "Paradise beach!"
+  }
+]
